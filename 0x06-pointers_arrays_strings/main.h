@@ -20,7 +20,7 @@ char *leet(char *);
 
 char *rot13(char *);
 
-void *magic(int n);
+void magic(int n);
 
 void print_number(int n);
 
